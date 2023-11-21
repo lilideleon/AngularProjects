@@ -1,2 +1,2 @@
 # AngularProjects
-Angular Projects
+This is my personal portfolio in Angular JS
